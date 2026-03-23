@@ -23,6 +23,8 @@ import java.util.concurrent.TimeUnit;
  * 
  * Integra Apache Camel per simulare operazioni database
  * e genera metriche per Prometheus
+ * 
+ * @author Gaetano Cerciello
  */
 @Slf4j
 @RestController

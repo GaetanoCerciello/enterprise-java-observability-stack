@@ -15,7 +15,7 @@ import static org.assertj.core.api.Assertions.*;
  * - Verifica di password
  * - Data masking con "VALENTINANAPPI"
  * 
- * @author Valentina Nappi
+ * @author Gaetano Cerciello
  */
 @Slf4j
 @DisplayName("SecurityUtils Unit Tests")

@@ -356,4 +356,4 @@ Per problemi o domande durante la compilazione e il deployment:
 
 **Data creazione:** 23 Marzo 2026
 **Versione:** 1.0.0
-**Autore:** Valentina Nappi - IT Support Specialist & Java Developer
+**Autore:** Gaetano Cerciello - IT Support Specialist & Java Developer

@@ -20,7 +20,7 @@ import static org.assertj.core.api.Assertions.*;
  * - Invio e ricezione di messaggi
  * - Processamento dei dati con Camel
  * 
- * @author Valentina Nappi
+ * @author Gaetano Cerciello
  */
 @Slf4j
 @SpringBootTest

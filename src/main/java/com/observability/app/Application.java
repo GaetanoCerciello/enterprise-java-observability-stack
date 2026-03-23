@@ -14,7 +14,7 @@ import org.springframework.context.annotation.ComponentScan;
  * - REST controller con operazioni CRUD simulate
  * - Utility per security (SHA-256 hashing)
  * 
- * @author Valentina Nappi
+ * @author Gaetano Cerciello
  * @version 1.0.0
  */
 @SpringBootApplication

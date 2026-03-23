@@ -12,6 +12,8 @@ import java.security.NoSuchAlgorithmException;
  * Fornisce metodi per:
  * - Hash SHA-256 di stringhe (simulazione data masking)
  * - Validazione e verifica hash
+ * 
+ * @author Gaetano Cerciello
  */
 @Slf4j
 public class SecurityUtils {

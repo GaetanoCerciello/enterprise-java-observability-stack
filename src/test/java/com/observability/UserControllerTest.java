@@ -28,7 +28,7 @@ import static org.mockito.Mockito.*;
  * - Aggiornamento di utenti (UPDATE)
  * - Eliminazione di utenti (DELETE)
  * 
- * @author Valentina Nappi
+ * @author Gaetano Cerciello
  */
 @Slf4j
 @ExtendWith(MockitoExtension.class)
