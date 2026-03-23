@@ -3,7 +3,7 @@
 **Versione:** 1.0.0  
 **Java Version:** 17  
 **Spring Boot Version:** 3.2.0  
-**Author:** Valentina Nappi - IT Support Specialist & Java Developer
+**Author:** Gaetano Cerciello - IT Support Specialist & Java Developer
 
 ## 📌 Descrizione Progetto
 
@@ -274,4 +274,4 @@ Questo progetto dimostra:
 
 **Pronto per il deployment su Rocky Linux!** 🚀
 
-**Contatto profesionale**: Valentina Nappi - IT Support Specialist & Java Developer
+**Contatto profesionale**: Gaetano Cerciello - IT Support Specialist & Java Developer
